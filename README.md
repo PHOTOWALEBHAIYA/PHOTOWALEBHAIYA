@@ -1,16 +1,8 @@
-- 👋 Hi, I’m @Yogesh thakur wildlife photographer 
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-- <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Yogesh Singh - Wildlife Photography</title>
+    <title>Yogesh thakur - Wildlife Photography</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -60,7 +52,7 @@
 </head>
 <body>
     <header>
-        <h1>Yogesh Singh - Wildlife Photography</h1>
+        <h1>Yogesh thakur - Wildlife Photography</h1>
     </header>
     <nav>
         <a href="#home">Home</a>
@@ -84,11 +76,11 @@
     </div>
     <div class="container" id="contact">
         <h2>Contact</h2>
-        <p>Email: your-email@example.com</p>
-        <p>Instagram: @yourhandle</p>
+        <p>Email: your-ys877340@gmail.com</p>
+        <p>Instagram: @photowalebhaiya8321</p>
     </div>
     <div class="footer">
-        <p>&copy; 2025 Yogesh Singh | Wildlife Photography</p>
+        <p>&copy; 2025 Yogesh thakur | Wildlife Photography</p>
     </div>
 </body>
 </html>
